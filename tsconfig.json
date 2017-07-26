@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "system",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "removeComments": false,
+    "noImplicitAny": false,
+    "outFile": "match-game.js"
+  },
+  "files": [
+    "node_modules/phaser/typescript/phaser.comments.d.ts",    
+    "ts/config.ts",
+    "ts/elements.ts",
+    "ts/match-game.ts"
+  ]
+}

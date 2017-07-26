@@ -1,0 +1,21 @@
+{
+  "name": "konstanc.match-game",
+  "version": "0.0.2",
+  "description": "Match Game prototype",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "lite": "lite-server"
+  },
+  "author": "Konstantin Kirillov",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^2.6.2"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.0",
+    "lite-server": "^2.3.0"
+  }
+}

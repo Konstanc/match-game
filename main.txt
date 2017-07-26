@@ -1,0 +1,7 @@
+1. Add logic to test a player can solve the task. Spawn part by config or by math model which depends on board and difficulty level instead of random.
+2. Scale to screen.
+3. Add tutorial.
+4. Pack the game.
+5. Sounds.
+6. Link to site.
+7. Design win/loose animations.
