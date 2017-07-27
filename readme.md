@@ -1,6 +1,9 @@
 # Match three game prototype
 This is a simple match three game prototype. Currently it supports only one field(level) at once.
 
+# Demo
+https://konstanc.github.io/match-game/
+
 # Game confing
 Came config can be found in config.json (see config.2.json and config.3.json for more examples):
 
